@@ -46,15 +46,6 @@ InsertionSortI32(int32_t *array, uint32_t size)
 	}
 }
 
-void
-Merge()
-{
-}
-
-void
-MergeSort(int *array, uint32_t size)
-{
-}
 
 uint32_t
 Partition(int32_t *array, uint32_t high, uint32_t low)
